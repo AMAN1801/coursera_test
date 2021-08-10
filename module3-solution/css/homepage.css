@@ -49,7 +49,7 @@ header>h1{
 /* MEDIA QUERY */
 
 
-@media screen and (max-width: 800px) {
+@media screen and (max-width: 768px) {
     #bars{
         padding: 3px;
         margin-right: 10px;
